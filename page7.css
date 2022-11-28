@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to top, rgb(93, 174, 201), white);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+    
+    h1 {
+        font-family:Lobster, sans-serif;
+        color:rgb(8, 5, 94);
+        font-size: 90px;
+        text-align: center;
+        text-shadow: 15px 15px 5px rgb(176, 171, 171);
+    } 
+    
+    p{
+        font-family:Lobster, sans-serif;
+        color:rgb(8, 5, 94);
+        font-size: 35px;
+    }
+
+    label{
+        font-family:Lobster, sans-serif;
+        color:rgb(8, 5, 94);
+        font-size: 35px;
+    }
+    
+    button{
+        background-color:white; 
+        font-family:Lobster; 
+        border-radius:10px; 
+        height: 70px;
+        font-size: 50px;
+        color:rgb(8, 5, 94);
+    }
+    button:hover{
+        background-color: rgb(215, 178, 224);
+    }
+    
+    input{
+        font-size: 40px;
+    }
+    

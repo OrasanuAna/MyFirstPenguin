@@ -1,0 +1,75 @@
+Body{
+    background-color:rgb(224, 221, 232);
+
+}
+#logo{
+    height:100px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+#poza1{
+    height:450px;
+}
+
+h1{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 70px;
+    text-align: center;
+}
+
+h2{
+    color:rgb(2, 4, 63);
+    font-family:Lobster;
+    border-style:solid;
+    border-width: 3px;
+   width: 1600px;
+   height: 130px;
+   font-size: 30px;
+    border-color:rgb(2, 4, 63);
+    border-radius: 10px;
+    padding: 9px;
+   
+   margin-left: auto;
+   margin-right: auto;
+    background:linear-gradient(to left, white ,rgb(236, 221, 236), lightblue);
+}
+
+
+#abc{
+    color:rgb(2, 4, 63);
+    font-family:Lobster;
+    border-style:solid;
+    border-width: 3px;
+   width: 1600px;
+   height: 200px;
+   font-size: 30px;
+    border-color:rgb(2, 4, 63);
+    border-radius: 10px;
+    padding: 9px;
+  
+   margin-left: auto;
+   margin-right: auto;
+    background:linear-gradient(to left, white ,rgb(236, 221, 236), lightblue);  
+}
+
+
+text{
+        color: rgb(2, 4, 63); 
+        font-size:30px;
+        font-family:Lobster;
+    }
+
+
+    button{
+        background-color:lightblue; 
+        color:rgb(2, 4, 63); 
+        font-family:Lobster; 
+        border-radius:5px; 
+        height: 40px;
+    }
+    button:hover{
+        background-color: rgb(227, 167, 227);
+    }

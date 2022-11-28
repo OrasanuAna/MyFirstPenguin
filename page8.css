@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(251, 238, 251);
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 50px;
+    }
+
+
+h1 {
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 90px;
+    text-align: center;
+   
+} 
+
+p{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 50px;
+}
+
+input{
+    font-size: 30px;
+}
+
+button{
+    background-color:white; 
+    font-family:Lobster; 
+    border-radius:5px; 
+    font-size: 50px;
+}
+button:hover{
+    background-color: rgb(227, 167, 227);
+}

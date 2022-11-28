@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>P4 Create a new account</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script:wght@700&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="page4.css">
+</head>
+
+<body>
+    <h1>Welcome to out website!Create a new account!</h1>
+
+    <form action="action_page.php" method="POST">
+        <div>
+            <label for="fname">First name:</label>
+            <input type="text" id="fname" name="fname" placeholder="Spongebob" required>
+                <button type="button" id="mybutton1">Salveaza datele in consola</button>
+    
+        </div>
+
+        <br>
+
+        <div>
+             <label for="lname">Last name:</label>
+            <input type="text" id="lname" name="lname" placeholder="Squarepants" required>
+                <button type="button" id="mybutton2">Salveaza datele in consola</button>
+        </div>
+
+        <br>
+
+        <div>
+            <label for="pass">Password:</label>
+            <input type="password" id="pass" name="pass" maxlength="10" required> 
+                <button type="button" id="mybutton3">Salveaza datele in consola</button>
+           
+    
+        </div>
+
+       <br>
+
+        <div>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="SPants@gmail.com" required>
+                <button type="button" id="mybutton4">Salveaza datele in consola</button>
+        </div>
+
+       <br>
+
+        <div>
+            <label for="phone">Phone:</label>
+            <input type="tel" id="phone" name="phone" placeholder="123 456 7890" required>
+                <button type="button" id="mybutton5">Salveaza datele in consola</button>
+        
+    
+        </div>
+
+        <br>
+
+        <div>
+            <label for="bdate">Birthdate:</label>
+            <input type="date" id="bdate" name="bdate" required>
+
+    
+        </div>
+
+        <br>
+
+        <div>
+            <label for="title">Title:</label>
+
+
+            <label for="Mr.">Mr.</label>
+            <input type="radio" id="Mr." name="title" value="Mr.">
+
+            <label for="Mrs.">Mrs.</label>
+            <input type="radio" id="Mrs." name="title" value="Mrs.">
+
+            <label for="PhD.">PhD.</label>
+            <input type="radio" id="PhD." name="title" value="PhD.">
+           
+    
+        </div>
+
+        <br>
+
+        <div>
+            <label for="payment:">Payment:</label>
+            <select id="payment" name="payment">
+                <option value="visa">visa</option>
+                <option value="mastercard">mastercard</option>
+                <option value="giftcard">giftcard</option>
+            </select>
+         
+    
+        </div>
+        <br>
+        <br>
+        
+
+        <div>
+            <label value="terms and conditions">Terms and conditions:</label>
+            <input type="checkbox" id="terms and conditions" name="terms and conditions" required>
+
+
+        </div>
+
+        <div>
+            <input type="reset">
+        </div>
+
+        <div>
+            <input type="submit">
+        </div>
+
+       
+    </form>
+
+    <script src="page4.js"></script>
+</body>
+
+</html>
