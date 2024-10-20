@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>My account</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Oleo+Script:wght@700&family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="page7.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <h1>My account</h1>
+    <br>
+
+    <p>Username: <label id="name"></label></p>
+    <p>Age: <label id="age"></label></p>
+    <p>Rank: <label id="rank"></label></p>
+
+    <br>
+<div>
+    <button id="button-change-Username">Change Username</button>
+    
+    <button id="button-change-Password">Change Password</button>
+</div>
+
+<form id="change-Username" hidden>
+    <label for="newusername">New Username:</label>
+    <input type="text" name="newusername" id="newusername">
+    <button id="change-username-confirm">Change</button>
+</form>
+
+<form id="change-Password" hidden>
+    <label for="oldpassword">Old Password:</label>
+    <input type="password" name="oldpassword" id="oldpassword">
+    <br>
+    <br>
+    <label for="newpassword">New Password:</label>
+    <input type="password" name="newpassword" id="newpassword">
+    <br>
+    <br>
+    <label for="confirm-password">Confirm Password:</label>
+    <input type="password" name="confirm-password" id="confirm-password">
+    <button id="change-password-confirm">Change</button>
+</form>
+
+    <script src="myaccount.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(to left, white ,rgb(236, 221, 236), lightblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+
+
+h1 {
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 90px;
+    text-align: center;
+    text-shadow: 15px 15px 5px rgb(176, 171, 171);
+} 
+
+p{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 35px;
+}
+
+label{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 50px;
+}
+
+button{
+    background-color:white; 
+    font-family:Lobster; 
+    border-radius:10px; 
+    height: 70px;
+    font-size: 50px;
+}
+button:hover{
+    background-color: rgb(227, 167, 227);
+}
+
+input{
+    font-size: 40px;
+}
+
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}

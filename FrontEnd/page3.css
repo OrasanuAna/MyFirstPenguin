@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(224, 221, 232);
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 30px;
+ }
+ 
+ 
+ input{
+    font-size: 20px;
+ }
+ 
+ 
+ #mybutton2{
+    background-color:white;
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 17px;
+ }
+ 
+ #mybutton2:hover{
+    background-color: rgb(227, 167, 227);
+ }

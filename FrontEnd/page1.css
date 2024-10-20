@@ -1,0 +1,88 @@
+body{
+    background: linear-gradient(to left, white ,rgb(236, 221, 236), lightblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+    
+
+h2 {
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 90px;
+    text-align: center;
+    text-shadow: 15px 15px 5px rgb(176, 171, 171);
+}
+
+button{
+    background-color:white; 
+    font-family:Lobster; 
+    border-radius:5px; 
+    height: 80px;
+}
+button:hover{
+    background-color: rgb(227, 167, 227);
+}
+ label{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 90px;
+ }
+
+img{
+    height:90px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+
+a{
+    color: rgb(2, 4, 63); 
+    font-size:90px;
+    text-align: center;
+    
+}
+
+text{
+    color: rgb(2, 4, 63); 
+    font-size:30px;
+}
+
+h3{
+    color:rgb(2, 4, 63); 
+    font-family:Lobster, sans-serif;
+    font-size: 18px;
+    text-decoration: dotted underline;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+p{
+    color:rgb(2, 4, 63);
+    font-family:Lobster;
+    border-style:solid;
+    border-width: 3px;
+   width: 1600px;
+   height: 200px;
+   font-size: 34px;
+    border-color:rgb(2, 4, 63);
+    border-radius: 10px;
+    padding: 9px;
+   margin-left: auto;
+   margin-right: auto;
+    background:linear-gradient(to left, white ,rgb(236, 221, 236), lightblue);
+}
+
+table{
+    background-color:black;
+    width: 1000px;
+    margin-left: auto;
+   margin-right: auto;
+}
+tr{
+    font-family:Lobster, sans-serif;
+    color:rgb(2, 4, 63);
+    font-size: 25px;
+    background-color: lightblue;
+
+}
