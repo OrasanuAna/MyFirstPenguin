@@ -24,4 +24,3 @@ MyFirstPenguin provides users with rich information and visual materials, includ
 ## Technologies Used
 
 - **Programming Languages**: HTML, CSS, JavaScript
-- **Libraries and Frameworks**: [Include any additional libraries used, if applicable]
