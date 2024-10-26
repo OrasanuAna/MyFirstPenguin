@@ -1,34 +1,31 @@
-# MyFirstPenguin
+Here's an English version of the README description with the additional functionalities included:
 
-Welcome to **MyFirstPenguin**, an introductory project designed to build essential skills and explore foundational concepts in web development. This repository is a step-by-step dive into the basics of HTML, CSS, and JavaScript, offering a practical approach for anyone taking their first steps into the world of coding. 
+---
 
-## Project Overview
+# MyFirstPenguin 🐧
 
-**MyFirstPenguin** is structured as a series of exercises and examples meant to develop key web development skills. From simple HTML layouts to interactive elements powered by JavaScript, this project serves as a hands-on learning experience. The goal is to provide a solid base for understanding how to create and style web pages and add functionality.
+**MyFirstPenguin** is a delightful application crafted for penguin enthusiasts, offering an immersive and informative experience about these fascinating creatures. The app dives into the life, habitats, and unique behaviors of penguins through an interactive and user-friendly design, bringing the wonders of the penguin world to everyone.
+
+## Overview
+
+MyFirstPenguin provides users with rich information and visual materials, including documentaries and educational videos about penguins. The simple and intuitive interface allows each user to explore key details about various penguin species and the environmental challenges they face in the wild.
+
+### Main Menu
+![Main Menu of the application](https://github.com/OrasanuAna/MyFirstPenguin/blob/main/MyFirstPenguin%20Pictures/Meniu%20MyFirstPenguin.jpg)
+
+### "Bipo" Penguin Documentary
+![Bipo Documentary](https://github.com/OrasanuAna/MyFirstPenguin/blob/main/MyFirstPenguin%20Pictures/Bipo%20Documentar%20MyFirstPenguin.jpg)
 
 ## Features
 
-- **HTML Structure**: Basic web page layouts to familiarize with essential HTML tags and structures.
-- **CSS Styling**: Styling exercises to practice using CSS selectors, properties, and layout techniques.
-- **JavaScript Interactivity**: Introductory scripts that bring interactivity to the web pages, allowing for a better understanding of DOM manipulation.
+- **Detailed Visual and Informative Content**: Each section is designed to deliver relevant information about penguins, complemented by images and videos.
+- **Documentary Section**: Users can explore fascinating documentaries, such as the "Bipo" documentary, which illustrates the life of penguins and the environmental challenges they face.
+- **Interactive Learning Tools**: Quizzes and interactive sessions allow users to test their knowledge and learn fun facts about penguins.
+- **Penguin Species Overview**: The app provides detailed descriptions of various penguin species, highlighting their unique characteristics and habitat preferences.
+- **Environmental Awareness**: Informative sections that educate users about conservation efforts and the impact of climate change on penguin populations.
+- **User-Friendly Navigation**: The structured menu enhances the user experience by providing quick access to the app's main sections.
 
-## Getting Started
+## Technologies Used
 
-### Prerequisites
-
-- Basic understanding of HTML, CSS, and JavaScript.
-- A code editor (like VS Code) for writing and testing code.
-- A modern web browser for viewing the project and testing changes.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/OrasanuAna/MyFirstPenguin.git
-   ```
-2. Open the project in your code editor.
-3. Open `index.html` in a browser to view the project.
-
-## Usage
-
-Explore each file to understand how HTML, CSS, and JavaScript work together to create a basic webpage. Feel free to make modifications, add new styles, or even enhance the functionality with JavaScript for additional practice.
+- **Programming Languages**: HTML, CSS, JavaScript
+- **Libraries and Frameworks**: [Include any additional libraries used, if applicable]
