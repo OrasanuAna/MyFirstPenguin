@@ -1,7 +1,3 @@
-Here's an English version of the README description with the additional functionalities included:
-
----
-
 # MyFirstPenguin 🐧
 
 **MyFirstPenguin** is a delightful application crafted for penguin enthusiasts, offering an immersive and informative experience about these fascinating creatures. The app dives into the life, habitats, and unique behaviors of penguins through an interactive and user-friendly design, bringing the wonders of the penguin world to everyone.
